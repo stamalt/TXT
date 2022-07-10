@@ -1,1 +1,15 @@
+#txt
 
+  Summary: 
+  Project: 
+  Component:
+  Version:
+  Severity:
+  Priority:
+  Status:
+  Author:
+  Assigned to:
+  Environment:
+  Steps to reproduce:
+  Result:
+  Expected result:
